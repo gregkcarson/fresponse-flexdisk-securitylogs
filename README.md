@@ -9,7 +9,7 @@ A few caveats:
 - My configuration is using port 3261, if you are listening on a different port in F-Response, change this in the script
 - If you want to download something other than the Security.evtx log then change the '&name=' values in the script for each folder in the files path, and the file name itself
 
-This could definitely be expanded upon to prompt the user for a path and filename so that an analyst could easily download files without having to modify the script.
+This could definitely be expanded upon to prompt the user for a path and filename so that an analyst could easily download files without having to modify the script. The www.f-response.com team are pretty awesome and helpful, this script uses a bunch of code they have shared, check them out.
 
 Cheers!
 GKC
